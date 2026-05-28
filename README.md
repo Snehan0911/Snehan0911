@@ -105,6 +105,8 @@ Currently, I’m focused on:
 </div>
 ---
 
+<div align="center">
+
 ## What I Do
 
 </div>
@@ -157,8 +159,8 @@ Currently, I’m focused on:
 </tr>
 </table>
 
-
 ---
+<div align="center">
 
 # 🚀 What I’m Working On
 
