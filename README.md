@@ -103,6 +103,7 @@ Currently, I’m focused on:
 </a>
 
 </div>
+
 ---
 
 <div align="center">
