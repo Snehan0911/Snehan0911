@@ -103,6 +103,60 @@ Currently, I’m focused on:
 </a>
 
 </div>
+---
+
+## What I Do
+
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+### Machine Learning
+- End-to-end ML pipelines
+- Model training & evaluation
+- Feature engineering
+- Hyperparameter tuning
+- Model deployment
+
+</td>
+<td width="33%">
+
+### Data Analysis
+- Exploratory Data Analysis
+- Data visualization
+- Statistical analysis
+- Data preprocessing
+- Insight generation
+
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+
+### Deep Learning
+- Neural networks
+- CNN, RNN, Transformers
+- Transfer learning
+- Model optimization
+- Computer vision & NLP
+
+</td>
+<td width="33%">
+
+### Python Development
+- Automation scripts
+- Data pipelines
+- API development
+- Backend services
+- Tool building
+
+</td>
+</tr>
+</table>
+
 
 ---
 
