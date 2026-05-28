@@ -161,7 +161,7 @@ Currently, I’m focused on:
 </table>
 
 ---
-<div align="center">
+
 
 # 🚀 What I’m Working On
 
