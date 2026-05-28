@@ -5,7 +5,15 @@
 ### Machine Learning Engineer • AI Engineer • Data Scientist • Data Analyst • LLM Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Engineer;Data+Scientist;Data+Analyst;LLM+Explorer;Always+Learning+New+Things" />
-
+<p align="center">
+ <a href="https://www.linkedin.com/in/sneha-nuchha0911/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+ 
+  <a href="mailto:nuchhasneha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 </div>
 
 ---
