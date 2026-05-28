@@ -188,6 +188,10 @@ Currently, I’m focused on:
 
 # 🤝 Let's Connect
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=F8D866&center=true&vCenter=true&width=600&lines=Open+to+exciting+opportunities;Let's+build+something+amazing+together!" alt="Connect" />
+</p>
+
 <div align="center">
 
 <a href="https://github.com/Snehan0911">
