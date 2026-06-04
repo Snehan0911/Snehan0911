@@ -6,12 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Engineer;Data+Scientist;Data+Analyst;LLM+Explorer;Always+Learning+New+Things" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Snehan0911&style=flat-square&color=blueviolet)](https://github.com/Snehan0911)
-
 <p align="center">
-  <a href="file:///C:/Users/sneha/Downloads/sneha_portfolio.html" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
  <a href="https://www.linkedin.com/in/sneha-nuchha0911/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
