@@ -27,7 +27,7 @@ I may be at the beginning of my professional journey, but I genuinely enjoy buil
 
 I believe being a fresher doesn’t mean lacking potential — it simply means being hungry to learn, improve, and grow every single day.
 
-Currently, I’m focused on:
+Currently, I’m focused on: 
 
 - 🤖 Machine Learning
 - 🧠 Artificial Intelligence
