@@ -117,7 +117,7 @@ Currently, I’m focused on:
 <tr>
 <td width="33%">
 
-### Machine Learning
+### Machine Learning 
 - End-to-end ML pipelines
 - Model training & evaluation
 - Feature engineering
