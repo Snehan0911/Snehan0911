@@ -105,22 +105,7 @@ A predictive modeling project using sensor data to identify equipment failure ri
 
 ---
 
-## 📈 GitHub Dashboard
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Snehan0911&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehan0911&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Snehan0911&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehan0911&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
 
 ## 🌱 Currently Exploring
 
