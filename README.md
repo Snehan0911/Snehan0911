@@ -1,4 +1,4 @@
-👩‍💻 Sneha Nuchha
+<h5 align="center">👩‍💻 Sneha Nuchha</h5>
 
 <h3 align="center">AI/ML Engineer | Machine Learning Engineer | Data Scientist | Generative AI Enthusiast</h3>
 
