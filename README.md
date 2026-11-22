@@ -13,9 +13,12 @@
   <a href="https://www.linkedin.com/in/sneha-nuchha0911/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:nuchhasneha@gmail.com">
+  <a href="mailto:snehanuchha@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+<a href="https://www.kaggle.com/snehanuchha">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 </p>
 
 ---
