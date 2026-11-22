@@ -1,177 +1,144 @@
-👩‍💻 SNEHA NUCCHA
+# 👋 Hi, I'm Sneha Nuchha
 
-AI/ML Engineer • Machine Learning Engineer • Data Scientist • Python Developer • Generative AI Enthusiast
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Snehan0911&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Snehan0911">GitHub</a> •
-  <a href="https://www.linkedin.com/in/sneha-nuchha0911/">LinkedIn</a> •
-  <a href="https://www.kaggle.com/snehanuchha">Kaggle</a> •
-  <a href="mailto:snehanuchha@gmail.com">Email</a>
-</p>
-
-👋 About Me
-
-Hey there! I'm Sneha, an aspiring AI/ML Engineer passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
-
-As a B.E. graduate, I enjoy building practical AI solutions, experimenting with machine learning models, and solving real-world problems through data and technology.
-
-I believe in continuous learning, hands-on development, and turning innovative ideas into intelligent applications.
-
-class AIEngineer:
-    def __init__(self):
-        self.name = "Sneha Nuchha"
-        self.role = [
-            "AI/ML Engineer",
-            "Machine Learning Engineer",
-            "Data Scientist"
-        ]
-        self.location = "Bengaluru, India"
-        self.education = "B.E. Graduate | VTU | 2025"
-        self.skills = [
-            "Python",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "NLP",
-            "Data Science"
-        ]
-
-    def current_focus(self):
-        return [
-            "Generative AI",
-            "LLMs and RAG",
-            "AI Agents",
-            "Model Deployment"
-        ]
-
-me = AIEngineer()
-print("Building intelligent solutions with AI!")
-
-🤖 Building AI/ML projects and practical applications.
-
-🧠 Exploring Machine Learning and Deep Learning algorithms.
-
-📊 Working with data analysis, preprocessing, and predictive modelling.
-
-💡 Interested in Generative AI, NLP, LLMs, and AI Agents.
-
-🎯 Open to opportunities as an AI Engineer, ML Engineer, and Data Scientist.
-
-🛠️ Languages and Tools
+### AI/ML Engineer | Data Scientist | Data Analyst | Generative AI Enthusiast
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
-  <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/></a>
-  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"/></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
-</p>
-
-Libraries: NumPy • Pandas • Matplotlib • Scikit-learn • Keras
-
-AI Technologies: Machine Learning • Deep Learning • NLP • Generative AI • LLMs • RAG • AI Agents
-
-🚀 What I'm Working On
-
-🤟 Indian Sign Language Recognition using Deep Learning.
-
-🌿 Rice Leaf Disease Prediction using CNN.
-
-💳 Credit Card Fraud Detection using Machine Learning.
-
-📄 AI-powered Resume Screening System.
-
-🐶 Dog Breed Classification using Deep Learning.
-
-🚦 Traffic Sign Detection using Computer Vision.
-
-💡 Areas of Interest
-
-Machine Learning
-
-Machine learning algorithms
-
-Model training and evaluation
-
-Feature engineering
-
-Predictive modelling
-
-Deep Learning & Computer Vision
-
-Artificial Neural Networks
-
-CNN, RNN, LSTM
-
-Image classification
-
-Object detection
-
-Data Science
-
-Exploratory Data Analysis
-
-Data preprocessing
-
-Data visualization
-
-Statistical analysis
-
-Generative AI & NLP
-
-Natural Language Processing
-
-Large Language Models
-
-Retrieval-Augmented Generation
-
-AI Agents and MCP
-
-Python Development
-
-Python programming
-
-Automation and scripting
-
-Data processing
-
-AI/ML application development
-
-🌱 Currently Learning
-
-Generative AI and LLMs
-
-LangChain and RAG
-
-AI Agents and MCP
-
-Model Deployment
-
-Docker and MLOps
-
-Advanced Deep Learning
-
-🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sneha-nuchha0911/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://www.kaggle.com/snehanuchha"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle"/></a>
-  <a href="mailto:snehanuchha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Solutions;Turning+Data+Into+Insights;Exploring+Machine+Learning+%26+LLMs;Learning%2C+Building%2C+Growing+Every+Day" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  ⭐ If you find my work interesting, feel free to explore and star my repositories!
+  <a href="https://github.com/Snehan0911">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sneha-nuchha0911/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nuchhasneha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 💫 About Me
+
+I'm a **B.E. graduate and aspiring AI/ML Engineer** passionate about building practical AI solutions, uncovering insights from data, and exploring intelligent applications.
+
+I enjoy taking ideas from experimentation to implementation — whether it's training machine learning models, developing computer vision applications, or exploring the potential of Large Language Models.
+
+- 🤖 Interested in Machine Learning, Deep Learning, and Generative AI
+- 📊 Passionate about Data Science, Analytics, and predictive modeling
+- 👁️ Exploring Computer Vision and Natural Language Processing
+- 🛠️ Building hands-on projects with Python and modern AI tools
+- 🌱 Continuously learning and improving through real-world projects
+- 🎯 Open to entry-level opportunities in AI, ML, and Data Science
+
+> My goal is to turn complex problems into practical, data-driven solutions.
+
+---
+
+## 🧰 Tech Stack
+
+### Programming & Data
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+### AI, Machine Learning & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤟 Indian Sign Language Recognition
+A computer vision project focused on recognizing Indian Sign Language gestures using image classification and deep learning.
+
+**Tech:** Python · CNN · TensorFlow/Keras · OpenCV
+
+### 🌿 Rice Leaf Disease Prediction
+A machine learning project that analyzes rice leaf images to help identify potential plant diseases.
+
+**Tech:** Python · Deep Learning · Computer Vision
+
+### 💳 Credit Card Fraud Detection
+A classification project focused on identifying potentially fraudulent transactions using machine learning.
+
+**Tech:** Python · Pandas · Scikit-learn · Classification
+
+### 📄 AI Resume Screening
+An AI-powered project exploring resume analysis and candidate screening using text processing and machine learning techniques.
+
+**Tech:** Python · NLP · Machine Learning
+
+### ⚙️ Predictive Maintenance
+A predictive modeling project using sensor data to identify equipment failure risks.
+
+**Tech:** Python · Pandas · Scikit-learn · Time-Series Data
+
+<p align="center">
+  <a href="https://github.com/Snehan0911?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+  </a>
+</p>
+
+---
+
+
+
+## 🌱 Currently Exploring
+
+- Large Language Models and Generative AI
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and multi-agent systems
+- Deep Learning and Computer Vision
+- Model deployment and MLOps
+- Data Structures and Algorithms
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to connect with fellow developers, learn from the community, and collaborate on meaningful projects.
+
+<p align="center">
+  <a href="https://github.com/Snehan0911">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sneha-nuchha0911/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:nuchhasneha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  ✨ "Learn continuously. Build intelligently. Grow with technology." ✨
+  <i>✨ Learning every day. Building with purpose. Growing through curiosity. ✨</i>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Snehan0911&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+ Its my before readme.md file give too attractive and good and impressive and dont add the graphic and add what i did every thing and give me new
