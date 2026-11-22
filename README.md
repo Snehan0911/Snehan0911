@@ -1,9 +1,9 @@
-# 👩‍💻 Sneha Nuchha
+👩‍💻 Sneha Nuchha
 
 <h3 align="center">AI/ML Engineer | Machine Learning Engineer | Data Scientist | Generative AI Enthusiast</h3>
 
 <p align="center">
-  <strong>Building Intelligent Solutions | Transforming Data into Insights | Exploring the Future of AI</strong>
+  <strong>Building Intelligent Solutions • Transforming Data into Insights • Exploring the Future of AI</strong>
 </p>
 
 <p align="center">
@@ -13,310 +13,362 @@
   <a href="mailto:nuchhasneha@gmail.com">Email</a>
 </p>
 
----
-
-## 🌟 About Me
-
-👋 Hello! I'm **Sneha Nuchha**, a B.E. graduate passionate about Artificial Intelligence, Machine Learning, and Data Science, with hands-on project and internship experience in developing practical AI-driven applications.
-
-I enjoy working across the complete machine learning lifecycle, from data collection and preprocessing to model development, evaluation, optimization, and deployment.
-
-My experience and interests include developing deep learning models, building computer vision applications, performing predictive analytics, and exploring Generative AI and intelligent AI agents.
-
-### 💡 What I Bring
-
-- 🤖 Hands-on experience developing Machine Learning and Deep Learning projects.
-- 🧠 Practical knowledge of CNN architectures and image classification.
-- 📊 Experience with data preprocessing, exploratory data analysis, and model evaluation.
-- 🐍 Working knowledge of Python, SQL, TensorFlow, Keras, and OpenCV.
-- 🚀 Exposure to Generative AI, AI-assisted development, and modern AI frameworks.
-- 📚 Continuous learning through internships, technical projects, and experimentation.
-
-🎯 **Career Objective:** To contribute to innovative AI/ML solutions by combining programming, analytical thinking, and practical problem-solving skills.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Snehan0911&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
-### 📊 Data Science & Data Analysis
+🌟 About Me
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EDA-Data_Analysis-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Preprocessing-Analysis-4682B4?style=for-the-badge"/>
+Hello! I'm Sneha Nuchha, a B.E. graduate passionate about Artificial Intelligence, Machine Learning, and Data Science.
+
+I am an aspiring AI/ML Engineer with hands-on internship and project experience in developing intelligent applications using Python, Machine Learning, Deep Learning, and Computer Vision.
+
+I enjoy working across the complete machine learning lifecycle — from data collection, preprocessing, and exploratory data analysis to model development, evaluation, optimization, and application development.
+
+My technical interests include Deep Learning, CNN architectures, Computer Vision, Natural Language Processing, Generative AI, Large Language Models, RAG, and AI Agents.
+
+💡 What I Bring
+
+🤖 Hands-on experience developing Machine Learning and Deep Learning projects.
+
+🧠 Practical understanding of CNN architectures and image classification.
+
+📊 Knowledge of data preprocessing, EDA, feature engineering, and model evaluation.
+
+🐍 Programming experience with Python and SQL.
+
+👁️ Experience exploring computer vision and image-processing applications.
+
+✨ Exploring Generative AI, LLMs, RAG, and AI Agent development.
+
+🚀 Passion for building practical, intelligent, and real-world AI solutions.
+
+🎯 Career Objective: To grow as an AI/ML Engineer by developing innovative AI-driven solutions, solving real-world problems, and continuously improving my technical and analytical skills.
+
+🛠️ Technical Skills
+
+💻 Programming Languages
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/></a>&nbsp;&nbsp;
+  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/></a>
 </p>
 
-- Exploratory Data Analysis (EDA)
-- Data Cleaning and Preprocessing
-- Data Visualization
-- Statistical Analysis
+📊 Data Science & Data Analysis
 
-### 🤖 Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-Algorithms-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Feature_Engineering-ML-6A5ACD?style=for-the-badge"/>
+<p align="center">
+  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="NumPy"/></a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="Pandas"/></a>&nbsp;&nbsp;
+  <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="55" alt="Matplotlib"/></a>
 </p>
 
-- Supervised and Unsupervised Learning
-- Regression and Classification
-- Decision Trees and Random Forest
-- Model Evaluation and Optimization
-- Feature Engineering
+Exploratory Data Analysis (EDA)
 
-### 🧠 Deep Learning & Neural Networks
+Data Cleaning and Preprocessing
 
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+Data Visualization
+
+Statistical Analysis
+
+🤖 Machine Learning
+
+<p align="center">
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="55" alt="Scikit-learn"/></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/></a>
 </p>
 
-- Artificial Neural Networks (ANN)
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- Long Short-Term Memory (LSTM)
-- Gated Recurrent Units (GRU)
+Supervised and Unsupervised Learning
 
-### ✨ Artificial Intelligence & Generative AI
+Regression and Classification
 
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-Large_Language_Models-5A4FCF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-008B8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-444444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Google_ADK-Agent_Development_Kit-4285F4?style=for-the-badge"/>
+Decision Trees and Random Forest
+
+Feature Engineering
+
+Model Training and Evaluation
+
+Model Optimization
+
+🧠 Deep Learning & Neural Networks
+
+<p align="center">
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="TensorFlow"/></a>&nbsp;&nbsp;
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="PyTorch"/></a>&nbsp;&nbsp;
+  <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="35" alt="Keras"/></a>
 </p>
 
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents and Multi-Agent Systems
-- Model Context Protocol (MCP)
-- Google Agent Development Kit (ADK)
+Artificial Neural Networks (ANN)
 
-### 👁️ Computer Vision
+Convolutional Neural Networks (CNN)
 
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Image_Processing-Computer_Vision-2E8B57?style=for-the-badge"/>
+Recurrent Neural Networks (RNN)
+
+Long Short-Term Memory (LSTM)
+
+Gated Recurrent Units (GRU)
+
+✨ Artificial Intelligence & Generative AI
+
+<p align="center">
+  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="35" alt="LangChain"/></a>&nbsp;
+  <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35" alt="Google AI"/></a>&nbsp;
+  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/LLMs-AI_Models-6A5ACD?style=for-the-badge" height="35" alt="LLMs"/></a>
 </p>
 
-- Image Processing
-- Image Classification
-- Object Recognition
-- Real-Time Image Prediction
+Natural Language Processing (NLP)
 
-### 🗄️ Databases
+Large Language Models (LLMs)
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+Retrieval-Augmented Generation (RAG)
+
+AI Agents and Multi-Agent Systems
+
+Model Context Protocol (MCP)
+
+Google Agent Development Kit (ADK)
+
+👁️ Computer Vision
+
+<p align="center">
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="35" alt="OpenCV"/></a>
 </p>
 
-### ⚙️ Development Tools & Platforms
+Image Processing
 
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+Image Classification
+
+Object Recognition
+
+Real-Time Image Prediction
+
+🗄️ Databases
+
+<p align="center">
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB"/></a>
 </p>
 
----
+⚙️ Development Tools & Platforms
 
-## 💼 Professional Experience
+<p align="center">
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code"/></a>&nbsp;&nbsp;
+  <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" height="55" alt="Jupyter"/></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="55" alt="Docker"/></a>&nbsp;&nbsp;
+  <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" height="55" alt="Anaconda"/></a>
+</p>
 
-### 🤖 AI/ML Internship — Rubixe
+<p align="center">
+  <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/></a>&nbsp;
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+</p>
 
-- Working on practical AI and Machine Learning applications.
-- Applying Python and machine learning concepts to real-world problems.
-- Exploring AI-based solutions, model development, and implementation.
-- Improving technical and problem-solving skills through hands-on work.
+💼 Professional Experience
 
-### 💻 Internship — Rooman Technologies
+🤖 AI/ML Internship — Rubixe
 
-- Gained practical exposure to technical concepts and project-based learning.
-- Strengthened programming and technical fundamentals.
-- Worked on developing industry-oriented technical skills.
+Working on practical AI and Machine Learning applications.
 
----
+Applying Python and machine learning concepts to real-world problems.
 
-## 🚀 Featured Projects
+Exploring AI-based solutions, model development, and implementation.
 
-### 1. 🤟 Indian Sign Language Recognition System
+Strengthening technical and problem-solving skills through hands-on work.
 
-**Domain:** Deep Learning | Computer Vision | CNN
+💻 Internship — Rooman Technologies
+
+Gained practical exposure to technical concepts and project-based learning.
+
+Strengthened programming and technical fundamentals.
+
+Developed industry-oriented technical skills.
+
+🚀 Featured Projects
+
+1. 🤟 Indian Sign Language Recognition System
+
+Domain: Deep Learning | Computer Vision | CNN
 
 Developed an AI-powered Indian Sign Language Recognition System using a custom Deep CNN architecture to classify 24 ISL alphabet classes.
 
-**Key Contributions:**
+Key Contributions:
 
-- 🧠 Developed a custom 4-block CNN architecture.
-- ⚙️ Implemented Batch Normalization, Dropout, and Global Average Pooling.
-- 🖼️ Trained and evaluated the model using 4,972 images.
-- 🎯 Achieved 100% test accuracy on the evaluated test dataset.
-- 📉 Optimized the model to approximately 463K parameters.
-- 👁️ Explored real-time sign recognition using computer vision.
+🧠 Designed a custom 4-block Deep CNN architecture.
 
-**Technologies:**
+⚙️ Implemented Batch Normalization, Dropout, and Global Average Pooling.
 
-`Python` `TensorFlow` `Keras` `CNN` `OpenCV` `NumPy`
+🖼️ Trained and evaluated the model using 4,972 images.
 
----
+🎯 Achieved 100% test accuracy on the evaluated test dataset.
 
-### 2. 🌿 Rice Leaf Disease Prediction
+📉 Built a compact model with approximately 463K parameters.
 
-**Domain:** Deep Learning | Computer Vision | Image Classification
+👁️ Explored real-time sign recognition using computer vision.
 
-Developed an image-based prediction system to identify rice leaf conditions using machine learning and deep learning techniques.
+Technologies: Python TensorFlow Keras CNN OpenCV NumPy
 
-**Key Contributions:**
+2. 🌿 Rice Leaf Disease Prediction
 
-- 🖼️ Performed image preprocessing and dataset preparation.
-- 🔍 Explored image classification techniques.
-- 🧠 Developed and evaluated predictive models.
-- 🌱 Applied computer vision concepts to agricultural problem-solving.
+Domain: Deep Learning | Computer Vision | Image Classification
 
-**Technologies:**
+Developed an image-based prediction project to identify rice leaf conditions using deep learning and computer vision techniques.
 
-`Python` `Deep Learning` `CNN` `TensorFlow` `OpenCV`
+Key Contributions:
 
----
+🖼️ Performed image preprocessing and dataset preparation.
 
-### 3. 💳 Credit Card Fraud Detection
+🔍 Explored image classification techniques.
 
-**Domain:** Machine Learning | Classification | Data Science
+🧠 Worked on predictive model development and evaluation.
+
+🌱 Applied computer vision concepts to an agricultural problem.
+
+Technologies: Python CNN Deep Learning TensorFlow OpenCV
+
+3. 💳 Credit Card Fraud Detection
+
+Domain: Machine Learning | Classification | Data Science
 
 Developed a machine learning classification project to identify potentially fraudulent credit card transactions.
 
-**Key Contributions:**
+Key Contributions:
 
-- 📊 Performed data exploration and preprocessing.
-- ⚖️ Analyzed transaction patterns and class imbalance.
-- 🤖 Applied classification algorithms.
-- 📈 Evaluated model performance using appropriate classification metrics.
+📊 Performed data exploration and preprocessing.
 
-**Technologies:**
+⚖️ Analyzed transaction patterns and class imbalance.
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
+🤖 Applied classification algorithms.
 
----
+📈 Evaluated model performance using classification metrics.
 
-### 4. 📄 AI Resume Screening System
+Technologies: Python Pandas NumPy Scikit-learn Machine Learning
 
-**Domain:** Artificial Intelligence | NLP | Machine Learning
+4. 📄 AI Resume Screening System
+
+Domain: Artificial Intelligence | NLP | Machine Learning
 
 Developed an AI-based resume screening application focused on analyzing resume content and supporting candidate-job matching.
 
-**Key Contributions:**
+Key Contributions:
 
-- 📝 Explored text preprocessing and NLP techniques.
-- 🔎 Worked on extracting relevant information from resumes.
-- 🎯 Explored skill matching and candidate screening.
-- 🤖 Applied AI concepts to recruitment automation.
+📝 Explored text preprocessing and NLP techniques.
 
-**Technologies:**
+🔎 Worked on extracting relevant information from resumes.
 
-`Python` `NLP` `Machine Learning`
+🎯 Explored skill matching and candidate screening.
 
----
+🤖 Applied AI concepts to recruitment automation.
 
-### 5. 🐶 Dog Breed Classification
+Technologies: Python NLP Machine Learning
 
-**Domain:** Deep Learning | Computer Vision | Image Classification
+5. 🐶 Dog Breed Classification
 
-Worked on an image classification project to identify dog breeds using deep learning techniques.
+Domain: Deep Learning | Computer Vision | Image Classification
 
-**Key Contributions:**
+Working on an image classification project to identify dog breeds using deep learning techniques.
 
-- 📂 Prepared and extracted the image dataset.
-- 🖼️ Explored image preprocessing and dataset organization.
-- 🧠 Worked on classification model development.
+Key Contributions:
 
-**Technologies:**
+📂 Prepared and extracted the image dataset.
 
-`Python` `CNN` `Deep Learning` `TensorFlow/Keras`
+🖼️ Explored image preprocessing and dataset organization.
 
----
+🧠 Working on classification model development.
 
-### 6. 🚦 Traffic Sign Detection
+Technologies: Python CNN Deep Learning TensorFlow/Keras
 
-**Domain:** Computer Vision | Deep Learning
+6. 🚦 Traffic Sign Detection
 
-Worked on a computer vision application focused on identifying and recognizing traffic signs from images.
+Domain: Computer Vision | Image Processing
 
-**Key Contributions:**
+Developed a Python-based computer vision application focused on identifying and recognizing traffic signs from images.
 
-- 👁️ Explored image processing using OpenCV.
-- 🖼️ Worked on image preprocessing and classification.
-- 🐍 Developed a Python-based application.
+Key Contributions:
 
-**Technologies:**
+👁️ Explored image processing using OpenCV.
 
-`Python` `OpenCV` `Computer Vision` `Deep Learning`
+🖼️ Worked on image preprocessing and classification.
 
----
+🐍 Built a Python-based application.
 
-## 🔄 Development & Project Workflow
+Technologies: Python OpenCV Computer Vision Deep Learning
+
+🔄 My AI/ML Development Workflow
 
 I follow a structured approach while developing AI/ML applications:
 
-1. 🎯 **Problem Understanding** – Identify the problem and define objectives.
-2. 📥 **Data Collection** – Gather and understand relevant datasets.
-3. 🧹 **Data Preprocessing** – Clean, transform, and prepare data.
-4. 📊 **Exploratory Data Analysis** – Understand patterns and relationships.
-5. 🛠️ **Feature Engineering** – Identify useful features for model development.
-6. 🧠 **Model Development** – Select and implement suitable ML/DL algorithms.
-7. ⚙️ **Model Training** – Train and optimize models.
-8. 📈 **Model Evaluation** – Evaluate performance using appropriate metrics.
-9. 🚀 **Deployment** – Explore application development and model integration.
-10. 📝 **Documentation** – Maintain project documentation and version control.
+🎯 Problem Understanding – Identify the problem and define objectives.
 
----
+📥 Data Collection – Gather and understand relevant datasets.
 
-## 📚 Currently Learning & Exploring
+🧹 Data Preprocessing – Clean, transform, and prepare data.
 
-- 🧠 Advanced Machine Learning and Deep Learning.
-- ✨ Generative AI and Large Language Models.
-- 🔎 Retrieval-Augmented Generation (RAG).
-- 🤖 AI Agents and Multi-Agent Architectures.
-- 🔗 Model Context Protocol (MCP).
-- 🛠️ Google Agent Development Kit (ADK).
-- 💬 Transformers and Advanced NLP.
-- 🐳 Docker and AI Model Deployment.
-- 🏗️ AI System Design and Integration.
+📊 Exploratory Data Analysis – Understand patterns and relationships.
 
----
+🛠️ Feature Engineering – Identify useful features for model development.
 
-## 🎯 Areas of Interest
+🧠 Model Development – Select and implement suitable ML/DL algorithms.
 
-- Artificial Intelligence Engineering
-- Machine Learning Engineering
-- Deep Learning
-- Data Science and Predictive Analytics
-- Computer Vision
-- Natural Language Processing
-- Generative AI and Agentic AI
-- Intelligent Automation
+⚙️ Model Training – Train and optimize models.
 
----
+📈 Model Evaluation – Evaluate performance using appropriate metrics.
 
-## 📂 GitHub & Project Portfolio
+🚀 Deployment – Integrate models into usable applications.
+
+📝 Documentation – Maintain project documentation and version control.
+
+📚 Currently Learning & Exploring
+
+🧠 Advanced Machine Learning and Deep Learning
+
+✨ Generative AI and Large Language Models
+
+🔎 Retrieval-Augmented Generation (RAG)
+
+🤖 AI Agents and Multi-Agent Architectures
+
+🔗 Model Context Protocol (MCP)
+
+🛠️ Google Agent Development Kit (ADK)
+
+💬 Transformers and Advanced NLP
+
+🐳 Docker and AI Model Deployment
+
+🏗️ AI System Design and Integration
+
+🎯 Areas of Interest
+
+Artificial Intelligence Engineering
+
+Machine Learning Engineering
+
+Deep Learning
+
+Data Science and Predictive Analytics
+
+Computer Vision
+
+Natural Language Processing
+
+Generative AI and Agentic AI
+
+Intelligent Automation
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehan0911&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehan0911&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Snehan0911&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+📂 GitHub & Project Portfolio
 
 I use GitHub to document my learning journey, maintain project repositories, experiment with AI/ML technologies, and share practical implementations.
 
@@ -329,9 +381,7 @@ I use GitHub to document my learning journey, maintain project repositories, exp
   </a>
 </p>
 
----
-
-## 🤝 Let's Connect
+🤝 Let's Connect
 
 I'm always excited to connect with professionals, developers, recruiters, and AI/ML enthusiasts.
 
@@ -353,13 +403,20 @@ I welcome opportunities to learn, collaborate, contribute to meaningful projects
   <strong>✨ Learning Continuously | Building Practically | Innovating with AI ✨</strong>
 </p>
 
----
+<p align="center">
+  <strong>Thank you for visiting my GitHub profile! 🚀</strong>
+</p>
 
-## 📌 Profile Information
+📌 Profile Information
 
-- **Name:** Sneha Nuchha
-- **Qualification:** B.E.
-- **Location:** Bengaluru, India
-- **Primary Focus:** AI/ML Engineering and Data Science
-- **Programming Language:** Python
-- **Career Interest:** Entry-Level AI/ML Engineer and Data Scientist Opportunities
+Name: Sneha Nuchha
+
+Qualification: B.E.
+
+Location: Bengaluru, India
+
+Primary Focus: AI/ML Engineering and Data Science
+
+Programming Language: Python
+
+Career Interest: Entry-Level AI/ML Engineer and Data Scientist Opportunities
